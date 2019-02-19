@@ -10,8 +10,8 @@ body
 #message
 {
 	display: inline-block;
-	width: 20%;
 	line-height: 1.1;
+	padding-bottom: 1rem;
     color:black;
     text-align: center;
     font-family: 'Ropa Sans', sans-serif;
