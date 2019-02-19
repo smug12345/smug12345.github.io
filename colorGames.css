@@ -11,15 +11,14 @@ body
 {
 	display: inline-block;
 	line-height: 1.1;
+	width: 20%;
 	padding-bottom: 1rem;
-	width: 15%;
         color:black;
         text-align: center;
         font-family: 'Ropa Sans', sans-serif;
         font-weight: 800;
         text-transform: uppercase;
         letter-spacing: 1px;
-	padding-left: auto;
 }
 .square
 {
